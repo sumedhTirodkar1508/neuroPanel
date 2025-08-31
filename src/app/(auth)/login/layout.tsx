@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Login - SQRATCH",
+  title: "Login - NeuroPanel",
 };
 
 export default function LoginLayout({

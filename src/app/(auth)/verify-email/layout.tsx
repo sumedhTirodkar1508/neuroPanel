@@ -1,7 +1,7 @@
 import React, { Suspense } from "react";
 
 export const metadata = {
-  title: "Verify Email - SQRATCH",
+  title: "Verify Email - NeuroPanel",
 };
 
 export default function VerifyEmailLayout({

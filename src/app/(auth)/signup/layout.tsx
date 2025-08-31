@@ -1,7 +1,7 @@
 import { Toaster } from "@/components/ui/sonner";
 
 export const metadata = {
-  title: "Signup - SQRATCH",
+  title: "Signup - NeuroPanel",
 };
 
 export default function SignupLayout({

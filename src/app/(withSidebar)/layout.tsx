@@ -13,7 +13,7 @@ import { SidebarInset, SidebarTrigger } from "@/components/ui/sidebar";
 import { Toaster } from "@/components/ui/sonner";
 
 export const metadata = {
-  title: "Admin Panel - SQRATCH",
+  title: "Admin Panel - NeuroPanel",
 };
 
 export default function DashboardLayout({
@@ -46,8 +46,8 @@ export default function DashboardLayout({
                 className="hidden sm:flex items-center" // Hidden on mobile, flex on small and larger screens.
               >
                 <img
-                  src="/sqratchLogo.png"
-                  alt="SQRATCH Logo"
+                  src="/neuropanelLogo.png"
+                  alt="NeuroPanel Logo"
                   className="h-10 w-auto"
                 />
               </Link>
@@ -57,8 +57,8 @@ export default function DashboardLayout({
                 className="sm:hidden justify-self-center flex items-center ml-12" // Flex on mobile, hidden on small and larger screens.
               >
                 <img
-                  src="/sqratchLogo.png"
-                  alt="SQRATCH Logo"
+                  src="/neuropanelLogo.png"
+                  alt="NeuroPanel Logo"
                   className="h-10 w-auto"
                 />
               </Link>

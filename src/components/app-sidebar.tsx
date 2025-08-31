@@ -49,7 +49,7 @@ export function AppSidebar() {
 
   const data = {
     user: {
-      name: session?.user?.name || "SQRATCH",
+      name: session?.user?.name || "NeuroPanel",
       email: session?.user?.email || "dummyemail@gmail.com",
       avatar: session?.user?.image || "../../P_logo.png",
     },

@@ -84,8 +84,8 @@ export default function SignupPage() {
                         borderRadius: "2rem",
                       }}
                     >
-                      <AvatarImage src="/sqratchLogo.png" alt="Logo" />
-                      <AvatarFallback>SQRATCH</AvatarFallback>
+                      <AvatarImage src="/neuropanelLogo.png" alt="Logo" />
+                      <AvatarFallback>NeuroPanel</AvatarFallback>
                     </Avatar>
                   </div>
                 </Link>
@@ -175,7 +175,7 @@ export default function SignupPage() {
               {/* <!-- Start Footer --> */}
               <div className="text-center">
                 <p className="text-gray-400">
-                  © {new Date().getFullYear()} SQRATCH. All rights reserved.
+                  © {new Date().getFullYear()} neuroPanel. All rights reserved.
                 </p>
               </div>
             </div>

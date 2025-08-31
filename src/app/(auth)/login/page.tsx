@@ -178,8 +178,8 @@ export default function LoginPage() {
         <div className="pt-8 flex justify-center">
           <Link href="/" className="inline-flex">
             <img
-              src="/sqratchLogo.png"
-              alt="SQRATCH"
+              src="/neuropanelLogo.png"
+              alt="NeuroPanel"
               className="h-10 w-auto mx-auto translate-x-[0.15rem] sm:translate-x-0"
             />
           </Link>
@@ -257,7 +257,7 @@ export default function LoginPage() {
 
         {/* Footer */}
         <div className="pb-6 text-center text-gray-400">
-          © {new Date().getFullYear()} SQRATCH. All rights reserved.
+          © {new Date().getFullYear()} NeuroPanel. All rights reserved.
         </div>
       </div>
     </section>

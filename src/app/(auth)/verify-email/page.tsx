@@ -62,7 +62,11 @@ export default function VerifyEmailPage() {
       <main className="flex-1 flex items-center justify-center p-4">
         <Card className="w-[90%] md:w-1/2 bg-white shadow-2xl z-10">
           <CardHeader className="flex justify-center">
-            <img src="/sqratchLogo.png" alt="SQRATCH" className="h-7 w-auto" />
+            <img
+              src="/neuropanelLogo.png"
+              alt="NeuroPanel"
+              className="h-7 w-auto"
+            />
           </CardHeader>
 
           <CardContent className="text-center space-y-4">

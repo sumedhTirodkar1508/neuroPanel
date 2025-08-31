@@ -41,7 +41,7 @@ export async function sendVerificationEmail(
     to: email,
     subject: "Verify Your Email Address",
     html: `
-      <h1>Welcome to SQRATCH!</h1>
+      <h1>Welcome to NeuroPanel!</h1>
       <p>Please click the link below to verify your email address:</p>
       <a href="${verificationUrl}" style="padding:10px 20px;color:#fff;background:#3b82f6;text-decoration:none;border-radius:6px;">
         Verify Email
