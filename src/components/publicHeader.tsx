@@ -24,7 +24,7 @@ export default function PublicHeader({
 
           {showAdminLogin && (
             <Link href="/login" className="neo-btn rounded-xl">
-              Admin Login
+              Login
             </Link>
           )}
         </div>
